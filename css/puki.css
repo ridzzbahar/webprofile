@@ -1,0 +1,48 @@
+/**.header{
+    height: 100px;
+    background-color: black;
+}**/
+
+.greentod{
+    color: greenyellow;
+}
+
+.textkontol{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    padding-right: 50px;
+}
+
+.pakkuattolong{
+    padding-left: 600px;
+}
+
+.tolongpakkuat{
+    padding-right: 900px;
+}
+
+.table{
+    align-content: center;
+}
+
+.color{
+    box-shadow: 0 0 5px #e40c0c;
+    background-color: blue;
+}
+
+.pakgaruk{
+    background-color: brown;
+    width: 30px;
+}
+
+.abahtumbuk{
+    background-color: gold;
+    width: 35px;
+}
+
+.bangteori7{
+    box-shadow: 0 5px 10px #ffb0b0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}

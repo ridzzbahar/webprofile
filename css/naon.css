@@ -1,0 +1,85 @@
+body{
+    background: linear-gradient(#000000 0%,rgb(183, 0, 255)  40%,#433878 100%);
+}
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.rounded-image{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.profileimage{
+    width: 200px;
+}
+.profile h2{
+    color: white;
+}
+.profile h4{
+    color: white;
+    transform: translateY(-10px);
+}
+.biodata{
+    background: linear-gradient(#fffeff 0%, #ffffffd5 40%, #fdfdfd00 100%);
+    padding-bottom: 200px;
+    padding-top: 55px;
+}
+.row{
+   padding: 0px 20px; 
+}
+.social-media{
+    padding-top: 55px;
+}
+.footer{
+    background-color: #fffeff;
+    padding-bottom: 20px;
+}
+.contact a{
+    color: black;
+    font-size: 40px;
+}
+.watermark{
+    padding-top: 30px;
+}
+.question-section {
+    text-align: center;
+    margin: 40px 0;
+}
+
+.question-section h2 {
+    font-size: 24px;
+    color: #4B0082;
+}
+
+.question-form {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.question-form input[type="text"] {
+    width: 300px;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-right: 10px;
+}
+
+.question-form button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4B0082;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.question-form button:hover {
+    background-color: #6A0DAD;
+}
